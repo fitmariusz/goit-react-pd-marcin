@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-pd-marcin/static/css/main.fcd92c8e.css",
+    "main.js": "/goit-react-pd-marcin/static/js/main.1950c1c2.js",
+    "index.html": "/goit-react-pd-marcin/index.html",
+    "main.fcd92c8e.css.map": "/goit-react-pd-marcin/static/css/main.fcd92c8e.css.map",
+    "main.1950c1c2.js.map": "/goit-react-pd-marcin/static/js/main.1950c1c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd92c8e.css",
+    "static/js/main.1950c1c2.js"
+  ]
+}
